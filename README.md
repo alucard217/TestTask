@@ -1,21 +1,10 @@
-<<<<<<< HEAD
-# TestTask
-Test task from an interview 
-=======
-# test_task
+# Test task for interview 
+## First Screen
+After launching the project you will be shown a screen with textfield and a button
+you can type anything you want except spaces to unlock the button.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> fb37c74 (testTask)
+## Second Screen
+Clicking it will navigate you to the result page with generation image. 
+The image itself can be generated successfully with a probability of 50%.
+If generation is failed, the dialog will be shown with an action of repeating the generation.
+There are two more buttons in the second screen: Try another and new prompt
