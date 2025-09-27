@@ -1,0 +1,4 @@
+abstract class GenerateButtonBlocState{}
+
+class GenerateButtonBlocLocked extends GenerateButtonBlocState{}
+class GenerateButtonBlocUnlocked extends GenerateButtonBlocState{}
